@@ -1,4 +1,8 @@
 ## 使用 MATLAB 和 Simulink 对机械臂进行轨迹规划
+
+该项目来自：
+https://github.com/mathworks-robotics/trajectory-planning-robot-manipulators
+
 Copyright 2019 The MathWorks, Inc.
 
 ## Description
